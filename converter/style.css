@@ -1,0 +1,18 @@
+input {
+    border-radius: 10px;
+    /* width: 400px; */
+}
+
+select {
+    border-radius: 10px;
+    /* margin-left: 25vw; */
+}
+
+button {
+    background-color: rgba(6, 163, 248, 0.837);
+    border-radius: 10px;
+}
+
+label {
+    margin-left: 20vw;
+}
